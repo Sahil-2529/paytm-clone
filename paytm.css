@@ -1,0 +1,16 @@
+(<style>
+@import url('https://fonts.googleapis.com/css2?family=Golos+Text&display=swap');
+</style>);
+
+body{
+    margin:0;
+    font-family:'Golos Text';
+}
+
+.navbar{
+    height: 85px;
+    width: 100%;
+    display: flex;
+
+}
+

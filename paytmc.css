@@ -1,0 +1,316 @@
+ <style>
+
+body{
+    margin:0;
+    font-family:'Golos Text';
+}
+
+.navbar{
+    height: 85px;
+    width: 100%;
+    display: flex;
+
+}
+
+.left{
+    width: 15%;
+    height:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 50px;
+
+}
+
+.middle{
+    width: 65%;
+    height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-left: 80px;
+
+}
+
+
+.right{
+    width: 20%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+
+.sub-links{
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+.account{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: deepskyblue;
+    padding: 2px 2px 2px 20px;
+    border-radius: 20px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+
+
+}
+
+.avatar{
+    margin-left: 10px;
+
+}
+
+.kyc{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+    font-size: 18px;
+
+}
+
+.wallet{
+    margin-right: 5px;
+}
+
+.section{
+    width: 100%;
+    height: 700px;
+    display: flex;
+
+}
+
+
+.left-section{
+    width:50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.right-section{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+    padding: 100px;
+    padding-right: 0;
+
+}
+
+
+::-webkit-scrollbar{
+    width: 5px;
+
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: dodgerblue;
+    border-radius: 10px;
+
+}
+
+
+.logo{
+    height: 80px;
+    width: 80px;
+
+}
+
+
+.head{
+    font-size: 55px;
+    font-weight: bold;
+}
+
+.para{
+    font-size: 20px;
+    font-weight: 500px;
+    width: 450px;
+    line-height: 30px;
+
+
+}
+
+.btn_{
+    background-color: black;
+    color: white;
+    padding: 15px 24px 15px 24px;
+    border-radius: 40px;
+    border: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+
+}
+
+
+svg{
+    margin-left: 10px;
+
+}
+.right-logo{
+    height: 528px;
+    width: 528px;
+    
+}
+
+
+.recgarge{
+    width: 100%;
+    background-color: aqua;
+    color: white;
+    margin-bottom: 0;
+    display: flex;
+
+}
+
+.inner-section{
+    width: 70%;
+    margin: auto;
+
+}
+
+.heading{
+    font-size: 36px;
+    padding-top: 70px;
+}
+
+.rc-child{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 50px;
+        padding-bottom: 50px;
+
+
+}
+
+.rc-logo{
+    height: 64px;
+    width: 64px;
+
+}
+
+.inner-div{
+    line-height: 10px;
+    font-weight:bold ;
+
+}
+
+.bbok-section{
+    width: 100%;
+    background-color: cadetblue;
+    color: white;
+    margin-top: 0;
+    display: flex;
+
+}
+
+.book-heading{
+    font-size: 36px;
+    padding-top: 70px;
+
+}
+
+.inside-div{
+    line-height: 1px;
+    font-size: large;
+    font-weight: bold;
+
+}
+
+.cards{
+    width: 100%;
+    background-color: cream white;
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.card-heading{
+    margin: 110px 250px 50px 260px;
+    font-size: 480px;
+    line-height: 50px;
+
+}
+
+.box-1{
+    width: 1000px;
+    height: 500px;
+    background-color: white;
+    margin: auto;
+    margin-bottom: 500px;
+    border-radius: 10px;
+
+}
+
+.first-card{
+    display: flex;
+    justify-content: left;
+    align-items: left;
+
+}
+
+.para-title{
+    margin-left: 0px;
+
+}
+
+.card-head{
+    font-size: 35px;
+    font-weight: bold;
+
+}
+
+.box-2{
+    width: 1000px;
+    height: 500px;
+    background-color: white;
+    margin: auto;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+
+}
+
+.sec-card-img{
+    height: 400px;
+    width: 500px;
+
+}
+
+.card-content{
+    display: flex;
+    margin-top: 100px;
+    align-content: left;
+    
+}
+
+.img-title{
+    font-size: large;
+    font-weight: bold;
+    display: flex;
+
+}
+
+.title-text{
+    margin-left: 20px;
+    
+}
+
+ </style>
